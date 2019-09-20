@@ -16,6 +16,8 @@ class ViewController: UIViewController {
         print("HELLO WORLD")
     }
 
-
+    func helloWorld() {
+        print("tao la cuong")
+    }
 }
 
