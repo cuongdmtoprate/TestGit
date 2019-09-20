@@ -15,9 +15,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         print("HELLO WORLD")
     }
-    func helloWorld() {
-        print("tao la dev")
-    }
 
+    func helloWorld() {
+        print("tao la cuong")
+    }
 }
 
