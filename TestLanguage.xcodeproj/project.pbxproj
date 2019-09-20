@@ -14,7 +14,6 @@
 		090B46F223347F5400EB7E0F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 090B46F023347F5400EB7E0F /* LaunchScreen.storyboard */; };
 		090B46FD23347FF800EB7E0F /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 090B46FF23347FF800EB7E0F /* Localizable.strings */; };
 		090B4705233480D000EB7E0F /* Main.strings in Resources */ = {isa = PBXBuildFile; fileRef = 090B4703233480D000EB7E0F /* Main.strings */; };
-		090B473E2334B05400EB7E0F /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 090B473D2334B05400EB7E0F /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,7 +27,6 @@
 		090B4704233480D000EB7E0F /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/Main.strings; sourceTree = "<group>"; };
 		090B4706233480E400EB7E0F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/Main.storyboard; sourceTree = "<group>"; };
 		090B47072334812000EB7E0F /* vi */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = vi; path = vi.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		090B473D2334B05400EB7E0F /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +62,6 @@
 				090B46E723347F5300EB7E0F /* AppDelegate.swift */,
 				090B46E923347F5300EB7E0F /* ViewController.swift */,
 				090B4703233480D000EB7E0F /* Main.strings */,
-				090B473D2334B05400EB7E0F /* Localizable.strings */,
 				090B46EB23347F5300EB7E0F /* Main.storyboard */,
 				090B46FF23347FF800EB7E0F /* Localizable.strings */,
 				090B46EE23347F5400EB7E0F /* Assets.xcassets */,
@@ -133,7 +130,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				090B46F223347F5400EB7E0F /* LaunchScreen.storyboard in Resources */,
-				090B473E2334B05400EB7E0F /* Localizable.strings in Resources */,
 				090B46FD23347FF800EB7E0F /* Localizable.strings in Resources */,
 				090B46EF23347F5400EB7E0F /* Assets.xcassets in Resources */,
 				090B46ED23347F5300EB7E0F /* Main.storyboard in Resources */,
